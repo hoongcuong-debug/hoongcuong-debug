@@ -11,11 +11,51 @@
 ## 📌 About Me
 - 👋 AI Engineer & Research-Oriented Developer building reliable Agentic AI systems.
 - 🎓 B.Eng. in Computer Science | Graduation Thesis: SpaBot — Multi-Agent AI Chatbot System | 9.8/10.
-- 🔬 Researching Autonomous Coding Agents, Long-Horizon Autonomy, Self-Improvement, and Agent Evaluation.
+- 🔬 Researching Autonomous Coding Agents, Long-Horizon Autonomy, Self-Improvement, Agent Evaluation, and Trajectory-Level Optimization (DPO/RL).
 - 🚀 Currently working on Enterprise AI & LLM Applications at CMC Global.
 - 🧪 Leading SODA, an open-science benchmark project focused on fine-grained multimodal reasoning and failure-mode analysis.
 
+## 🚀 Current Work
 
+### 🏢 Enterprise AI @ CMC Global
+
+Building production-oriented AI and LLM applications, including:
+
+- Enterprise AI pipelines
+- LLM-powered document intelligence
+- Prompt optimization
+- AI microservices
+- LLM evaluation and reliability analysis
+
+### 🧪 SODA Benchmark
+
+Leading an open-science research initiative focused on:
+
+- Fine-grained spatiotemporal reasoning
+- Visual deception and adversarial reasoning
+- Physical counterfactuals
+- Multimodal model failure-mode analysis
+- Structured benchmark design and evaluation
+
+> Research repositories are currently private while the work is under development.
+
+---
+
+## 🎓 Education & Training
+
+**B.Eng. in Computer Science**  
+Nguyen Tat Thanh University · 2022–2026
+
+**Vingroup Practical AI Talent Training Program — Batch 3**  
+Vingroup × VinUniversity · 2026
+
+- AI Applications & Agentic AI Systems
+- LLM Applications
+- Agent Architecture
+- AI Foundations & Ethics
+- Enterprise AI Production Projects
+
+---
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hoongcuong-debug">
@@ -91,8 +131,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
